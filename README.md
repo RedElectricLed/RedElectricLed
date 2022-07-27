@@ -1,6 +1,8 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RedElectricLed&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="600" height="300"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedElectricLed&layout=compact&theme=vision-friendly-dark)](https://github.com/RedElectricLed/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RedElectricLed&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **RedElectricLed/RedElectricLed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
