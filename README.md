@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RedElectricLed&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RedElectricLed&theme=dark&background=8B0000)](https://git.io/streak-stats)
 
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="480" height="360"/>
   
