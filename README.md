@@ -1,3 +1,9 @@
+<p align="center"><img width="80%" alt="Hello, I'm RedElectricLed. I love electronics and creativity!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
+I'm from Canada and love being creative with electronics, eh! 🇨🇦
+
 <div align="center">
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RedElectricLed&theme=dark&background=8B0000)](https://git.io/streak-stats)
@@ -6,7 +12,8 @@
   
 </div>
 
-
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=RedElectricLed&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="RedElectricLed's awesome github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedElectricLed&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!--
 **RedElectricLed/RedElectricLed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
