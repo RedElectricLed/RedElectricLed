@@ -1,7 +1,6 @@
 <div align="center">
 
 ### Hello, I'm RedElectricLed!
-### I'm from Canada and love being creative with electronics, eh! 🇨🇦
 
 <br />
 
